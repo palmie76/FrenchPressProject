@@ -1,0 +1,19 @@
+html {
+  text-align: center;
+  background-color: #A1CDF6;
+  font-family: 'Nunito', sans-serif;
+}
+
+div {
+  padding: 10px;
+}
+
+img { 
+  border-radius: 10px;
+  width: 550px;
+  height: 350px;
+}
+
+input{
+  width: 80px;
+}
